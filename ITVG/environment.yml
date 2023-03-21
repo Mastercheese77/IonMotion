@@ -1,0 +1,7 @@
+name: itvg-dev
+dependencies:
+  - python=3.5
+  - numpy>=1.14
+  - scipy>=1.0.0
+  - nb_conda_kernels
+  - ipykernel
